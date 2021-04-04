@@ -20,6 +20,4 @@ Parsing the voting results data by county and then shading each county along a c
 
 ![Image of Map](https://michaeljmerritt.github.io/Portfolio/Images/election.gif)
 
-![Image of Map](https://michaeljmerritt.github.io/Portfolio/Images/covidmp.mp4)
-
 [Back to Portfolio](https://michaeljmerritt.github.io/Portfolio/)
